@@ -1,1 +1,2 @@
 hola git soy el archivo2.
+Hay una segunda linea esta es una modificacion
